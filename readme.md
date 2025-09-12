@@ -22,4 +22,7 @@ Example: touch file.txt
 ## mkdir
 Creates a new directory.
 Example: mkdir newfolder
+## rm
+Removes files or directories.
+Example: rm file.txt
 
