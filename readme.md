@@ -28,4 +28,8 @@ Example: rm file.txt
 ## cp
 Copies files or directories.
 Example: cp file.txt /home/user/
+## mv
+Moves or renames files or directories.
+Example:
+mv oldname.txt newname.txt
 
