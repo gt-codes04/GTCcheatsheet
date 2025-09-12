@@ -40,3 +40,8 @@ git init
 Stages changes for the next commit.
 Example:
 git add file.txt
+## git commit
+Commits the staged changes to the repository.
+Example:
+git commit -m "Add initial files"
+
