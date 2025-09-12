@@ -25,4 +25,7 @@ Example: mkdir newfolder
 ## rm
 Removes files or directories.
 Example: rm file.txt
+## cp
+Copies files or directories.
+Example: cp file.txt /home/user/
 
