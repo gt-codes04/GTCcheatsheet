@@ -16,4 +16,7 @@ Example: cat readme.md
 ## echo
 Prints text or variables to the terminal.
 Example: echo "Hello, World!"
+## touch
+Creates a new empty file.
+Example: touch file.txt
 
