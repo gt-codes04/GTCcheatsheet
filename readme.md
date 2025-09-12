@@ -36,4 +36,7 @@ mv oldname.txt newname.txt
 Initializes a new Git repository.
 Example:
 git init
-
+## git add
+Stages changes for the next commit.
+Example:
+git add file.txt
