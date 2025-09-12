@@ -7,4 +7,7 @@ $ pwd
 ## ls  
 Lists files and directories in the current working directory.  
 Example: ls -l  
+## cd
+Changes the current directory.
+Example: cd /home
 
