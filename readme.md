@@ -4,4 +4,7 @@
 **Example:**
 $ pwd
 /home/guna/cheatsheet
+## ls  
+Lists files and directories in the current working directory.  
+Example: ls -l  
 
