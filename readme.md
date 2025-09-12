@@ -32,4 +32,8 @@ Example: cp file.txt /home/user/
 Moves or renames files or directories.
 Example:
 mv oldname.txt newname.txt
+## git init
+Initializes a new Git repository.
+Example:
+git init
 
