@@ -19,4 +19,7 @@ Example: echo "Hello, World!"
 ## touch
 Creates a new empty file.
 Example: touch file.txt
+## mkdir
+Creates a new directory.
+Example: mkdir newfolder
 
