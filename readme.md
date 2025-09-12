@@ -10,4 +10,7 @@ Example: ls -l
 ## cd
 Changes the current directory.
 Example: cd /home
+## cat
+Displays the contents of a file.
+Example: cat readme.md
 
