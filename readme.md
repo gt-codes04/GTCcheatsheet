@@ -48,4 +48,8 @@ git commit -m "Add initial files"
 Shows the current state of the working directory and staging area.
 Example:
 git status
+## git push
+Pushes local commits to a remote repository.
+Example:
+git push origin main
 
