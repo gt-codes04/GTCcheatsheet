@@ -44,4 +44,8 @@ git add file.txt
 Commits the staged changes to the repository.
 Example:
 git commit -m "Add initial files"
+## git status
+Shows the current state of the working directory and staging area.
+Example:
+git status
 
