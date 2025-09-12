@@ -13,4 +13,7 @@ Example: cd /home
 ## cat
 Displays the contents of a file.
 Example: cat readme.md
+## echo
+Prints text or variables to the terminal.
+Example: echo "Hello, World!"
 
